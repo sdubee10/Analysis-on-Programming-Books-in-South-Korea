@@ -1,26 +1,43 @@
 # Analysis on Programming Books in South Korea
-+ 프로젝트 수행일지: 2021.10.21
-+ 작성자 : 강승완
 
-국내 프로그래밍 관련 책 출판에 대한 분석
+![image](https://user-images.githubusercontent.com/68809022/148406478-775e525a-43e1-4c16-9baa-01e4395158b1.png)
 
-<p align = "center">
-  <img src = "https://user-images.githubusercontent.com/68809022/147713250-3828d43b-c616-46dd-a543-8e2fb1b5a0f0.png" width="100%" height="100%">
+</br>
+
+----
+
+</br>
+</br>
+
+<p align="center">
+  <img src = "https://user-images.githubusercontent.com/68809022/148406629-9fe30eb2-fc44-4989-afc5-8607037e620f.png" width = "70%">
 </p>
+
 
 ## 프로젝트 목적
 ----
 1. 데이터 수집
+  + NAVER API 사용하여 책 정보 데이터 수집
+  + Beautifulsoup 사용하여 책 페이지 수 데이터 수집
 2. 프로그래밍 언어별 인기도와 책 출판 사이의 연관성 확인
 3. 국내 프로그래밍 언어 관련 출판 책 데이터의 상관관계 파악
 
 
 ## 프로젝트 결과[분석]
 ----
+<p align = "center">
+  <img src = "https://user-images.githubusercontent.com/68809022/148413642-a13b4ab4-b488-4153-a701-c6f56e1171e1.gif" width = "70%">
+</p>
+
+
+
+### 1. 국내에서 2016년 AlphaGo 등장 후, AI에 대한 관심이 높아지면서 파이썬 언어의 대한 관심도가 높아졌다 
 
 ## 프로젝트 과정
 ----
 ### 데이터 수집
+#### 1.  [Naver Books API 사용](https://developers.naver.com/docs/search/book/)
+
 
 ### 데이터 전처리
 
